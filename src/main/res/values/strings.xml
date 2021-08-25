@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="activity_select">Choose Title</string>
+    <string name="activity_general_science">General Science</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="sport">Sports</string>
+    <string name="congrats">Congratulation</string>
+</resources>
